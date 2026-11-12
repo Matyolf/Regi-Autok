@@ -43,11 +43,11 @@ a:hover {
   border-radius: 5px;
 }
 
-.active{
-    color: black;
-    background-color: rgb(0, 185, 73);
-    border-radius: 5px;
-    border: 1px solid lightgreen;
+.active {
+  color: black;
+  background-color: rgb(0, 185, 73);
+  border-radius: 5px;
+  border: 1px solid lightgreen;
 }
 
 h1 {
@@ -60,6 +60,8 @@ h2 {
   text-align: left;
   color: rgb(0, 138, 73);
   font-size: 1.5rem;
+  padding: 10px;
+  margin: 10px;
 }
 
 article {
@@ -100,6 +102,11 @@ ol {
 li {
   padding: 5px;
   margin: 5px;
+}
+
+p {
+  padding: 10px;
+  margin: 10px;
 }
 
 aside {
